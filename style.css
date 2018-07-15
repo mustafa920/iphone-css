@@ -1,0 +1,69 @@
+#f1{
+	width: 25px;
+	height: 25px;
+	background-color: #b8b894;
+	
+	transition: rotate(360deg);
+
+}
+
+nav{
+	border:solid ;
+	border-radius: 40px;
+border-color: #ffcc99;
+box-shadow: 40px;
+	background-color: #b8b894;
+	display: flex;
+}
+
+ ul li{ display: inline;
+
+	list-style-type: none;
+	margin:10px;
+
+	
+}
+h1{
+	text-align: center;
+	color:#ff9966;
+}
+p{
+
+	font-family: arial;
+	text-align: center;
+	text-underline-position: none;
+	}
+
+#f2{
+	width: 500px ;
+	height: 300px; 
+	
+}
+
+#f3{
+		width: 25px;
+	height: 25px;
+	background-color: gray;
+
+}
+
+
+#pp1{
+font-family: "Comic Sans MS", cursive, sans-serif	;
+
+
+	text-align: center;
+}
+#f4{
+	width: 500px ;
+	height: 300px; 
+
+}
+p{
+	font-family: "Comic Sans MS", cursive, sans-serif ;
+	text-align: center;	
+
+}
+#b1{
+	background-color: pink ;
+}
